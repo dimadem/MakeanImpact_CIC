@@ -1,0 +1,6 @@
+python-dotenv
+anthropic
+voyageai
+PyPDF2
+gspread
+pandas
